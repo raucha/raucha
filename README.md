@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=raucha&count_private=true)
+![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=zizi4n5&layout=compact)
+
 <!--
 **raucha/raucha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
